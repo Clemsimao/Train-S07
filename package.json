@@ -1,0 +1,27 @@
+{
+  "name": "train-s07",
+  "version": "1.0.0",
+  "description": "Exo pour s'entrainer avant de commencer la saison 7 chez O'Clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clemsimao/Train-S07.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clemsimao/Train-S07/issues"
+  },
+  "homepage": "https://github.com/Clemsimao/Train-S07#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
